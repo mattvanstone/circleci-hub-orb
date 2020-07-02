@@ -1,0 +1,6 @@
+version: 2.1
+description: |
+  Install and run hub (https://github.com/github/hub).
+  Inspired by circleci/aws-cli orb.
+display:
+  home_url: https://github.com/mattvanstone/circleci-hub-orb
